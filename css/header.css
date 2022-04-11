@@ -2,6 +2,9 @@
     position: relative;
     background-color: var(--first-brand-color);
 }
+body.open-menu {
+    overflow: hidden;
+}
 .header {
     padding: 1.5rem 0;
     display: flex;
