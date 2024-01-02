@@ -149,7 +149,7 @@ body.error-active .error__overlay {
   position: relative;
 }
 .logo {
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-family: var(--title-font);
 }
 
@@ -166,7 +166,7 @@ body.error-active .error__overlay {
   font-family: var(--title-font);
 }
 .text {
-   font-size: 1.8rem;
+   font-size: 1.6rem;
 }
 .img {
     width: 100%;
